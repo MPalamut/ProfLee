@@ -1,7 +1,39 @@
 body{
-    background-color: aliceblue;
+    /* background: url("http://127.0.0.1:5500/assets/images/sunset.jpg") no-repeat fixed center ;
+    color:white */    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-p{
-    color:blue;
+h1{
+    text-align: center;
+}
+
+.bgBlue{
+    background-color: blue;
+
+}
+
+.bgGreen{
+    background-color: green;
+}
+
+.myMargin{
+margin-top: 50px;
+}
+
+.myPadding{
+    padding: 25px;
+}
+
+.textGreen{
+    color: green;
+}
+
+.bigText{
+    font-size: xx-large;
+}
+
+.container{
+    display: flex;
+    gap: 20px;
 }
