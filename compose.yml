@@ -1,7 +1,7 @@
 services:
   web:
     build: .
-    container_name: prof_lee
+    container_name: proflee
     ports:
       - "8090:80"
     volumes:
