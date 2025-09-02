@@ -89,11 +89,7 @@
       </form>
     </div>
       <footer class="bg-gray-800 text-gray-100 p-4 h-32">   
-<<<<<<< HEAD:index.html
           copyright Prof Lee 2025 
-=======
-         <?php echo "Copyright 2025" ?>
->>>>>>> dev:index.php
       </footer>
   </section>
 </body>
