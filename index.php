@@ -80,7 +80,7 @@
 
 
     <section>
-        <div class="p-8 bg-gray-700">
+        <div class="p-8 bg-gray-600">
       <div class="text-gray-100 text-2xl mb-8">contact me</div>
       <form class="grid space-y-8" action="/index.html" method="post">
         <input  name="visitor_name" class="rounded p-2 text-lg w-72" type="text" placeholder="please write your name">
