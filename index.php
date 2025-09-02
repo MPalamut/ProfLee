@@ -89,7 +89,7 @@
       </form>
     </div>
       <footer class="bg-gray-800 text-gray-100 p-4 h-32">   
-         <span>Copyright</span>
+         <?php echo "copyright 2025" ?>
       </footer>
   </section>
 </body>
