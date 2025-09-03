@@ -47,18 +47,10 @@ $welcome = "welcome to my website, ";
         <button type="submit" class="bg-blue-500 text-gray-100 w-32 rounded p-2 text-lg" >senden</button>
       </form>
     </div>
-<<<<<<< HEAD
       <footer class="bg-gray-800 text-gray-100 p-4 h-32">   
           copyright Prof Lee 2025 
       </footer>
   </section>
-=======
-</section>
-
-    <?php require_once "include/footer.php" ?>
-
-  
->>>>>>> dev
 </body>
 
 </html>
