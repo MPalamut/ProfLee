@@ -38,7 +38,6 @@ $welcome = "welcome to my website, ";
       </div>
    </section>
 
-
     <section>
         <div class="p-8 bg-gray-600">
       <div class="text-gray-100 text-2xl mb-8">contact me</div>
