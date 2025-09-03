@@ -29,6 +29,19 @@
       </div>
    </section>
 
+<!-- code section -->
+<section>
+<div class="min-h-32 bg-blue-100">
+<?php
+$myname = "proflee";
+$welcome = "welcome to my website, ";
+?>
+
+<span class="text-blue-500"><?= $myname?></span>
+</div>
+</section>
+
+
    <section>
       <div class="p-8">
          <div class="grid grid-cols-3 gap-4">
