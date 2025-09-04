@@ -14,7 +14,6 @@
 <?php require_once "include/intro.php" ?>
 
 
-
 <!-- code section -->
 <section>
 <div class="min-h-32 bg-blue-100">
