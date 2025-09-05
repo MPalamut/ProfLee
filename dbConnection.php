@@ -20,7 +20,7 @@ class DbConnection
      */
     public function __construct()
     {
-        $this->host = "localhost";
+        $this->host = "db";
         $this->dbname = "prof_lee";
         $this->user = "admin";
         $this->password = "admin";
